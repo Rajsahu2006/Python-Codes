@@ -19,3 +19,21 @@ a = 10
 b = 20
 c = a and b
 print(c)
+
+#float division operator
+
+a = 2.4
+b = 8.9
+c = a//b
+print(c)
+
+#modulo operator
+
+a = 4
+b = 45
+c = a%b
+print(c)
+
+#exponental operator
+print(2**4) #2 ki power 4
+

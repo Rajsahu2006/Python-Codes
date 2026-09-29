@@ -3,3 +3,6 @@ a = int(input("Enter a number1:"))
 b = int (input ("Enter a number 2:"))
 
 c =print("Sum is :",int(a+b))
+
+#Data type
+

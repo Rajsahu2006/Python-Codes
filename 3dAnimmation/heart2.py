@@ -12,14 +12,14 @@ bgcolor("black")
 for i in range(100):
     goto(Hearta(i) * 20,Heartb(i) * 20)
     for j in range (1):
-        color("purple")
+        color("red")
     dot() #drow a dot at the current possition
 goto(0,0)
 # heart draw hone ke baad
 penup()
 goto(0, -20)
 color("Red")
-write("I Love You ❤️", align="center", font=("Arial", 24, "bold"))
+write("I Love You  ❤️", align="center", font=("Arial", 24, "bold"))
 
 done()
        
